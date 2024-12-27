@@ -14,8 +14,6 @@ Education
 * M.S. in Shenzhen, Shenzhen University, 2024
 * B.S. in Shenzhen, Shenzhen Technology University, 2020-2024
 
-
-  
 Skills
 ======
 * Python
@@ -25,5 +23,5 @@ Skills
 
 Publications
 ======
-  ---
-  
+---
+
