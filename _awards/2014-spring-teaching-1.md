@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "Awarding 1"
+collection: awards
+type: ""
+permalink: /awards/2024-awards-1
+venue: "Shenzhen University, College of Applied Science"
+date: 2024
+location: "Shenzhen, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
 ======
