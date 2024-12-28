@@ -1,8 +1,8 @@
 ---
-title: "News-1"
-collection: news
+title: "news-1"
+collection: News
 type: "News"
-permalink: /news/news-1
+permalink: /News/news-1
 date: 2024-12-28
 ---
 
