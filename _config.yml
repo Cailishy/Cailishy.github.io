@@ -253,7 +253,7 @@ defaults:
   # _awards
   - scope:
       path: ""
-      type: awards
+      type: Awards
     values:
       layout: single
       author_profile: true
