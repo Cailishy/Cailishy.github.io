@@ -1,5 +1,5 @@
 ---
-title: "Awards"
+title: "awards-1"
 excerpt: "Short description of awards<br/><img src='/images/500x300.png'>"
 collection: Awards
 ---

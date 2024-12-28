@@ -11,12 +11,13 @@ redirect_from:
 
 Education
 ======
-* M.S. in Shenzhen, Shenzhen University, 2024
+* M.S. in Shenzhen, Shenzhen University, 2024-
 * B.S. in Shenzhen, Shenzhen Technology University, 2020-2024
 
 Skills
 ======
 * Python
+* Pytorch
 * Deep Learning
   * GNN
   * LLM
