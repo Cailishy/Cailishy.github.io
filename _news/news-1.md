@@ -1,9 +1,9 @@
 ---
-title: "News"
+title: "News-1"
 collection: news
-category: manuscripts
+type: "News"
 permalink: /news/news-1
-date: 2025
+date: 2024-12-28
 ---
 
 About News 
