@@ -10,6 +10,5 @@ redirect_from:
 ---
 
 <ul>
-    <li><em>2024-12</em>: 1 paper is accepted by ICASSP 2025🎉</li>
+    <li><em>2024-12</em>: 1 paper is accepted by ICASSP 2025(CFF B). 🎉</li>
 </ul>
-
