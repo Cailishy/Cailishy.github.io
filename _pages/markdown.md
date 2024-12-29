@@ -7,5 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
+{% include base_path %}
+
 A personal homepage.
 

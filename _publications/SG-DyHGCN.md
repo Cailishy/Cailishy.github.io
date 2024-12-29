@@ -1,6 +1,5 @@
 ---
 title: "SG-DyHGCN"
-collection: publications
 category: conferences
 permalink: /publication/SG-DyHGCN
 excerpt: ''
