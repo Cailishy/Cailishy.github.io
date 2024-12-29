@@ -5,17 +5,17 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "News"
+  - title: "🔥 News"
     url: /News/  
     
-  - title: "📖Publications"
+  - title: "📖 Publications"
     url: /publications/ 
     
-  - title: "Awards"
+  - title: "🏅 Awards"
     url: /Awards/
     
-  - title: "CV"
+  - title: "🧑‍🎓 CV"
     url: /cv/
     
-  - title: "Guide"
+  - title: "🧭 Guide"
     url: /markdown/
