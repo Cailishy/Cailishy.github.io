@@ -22,7 +22,3 @@ Skills
   * GNN
   * LLM
 
-Publications
-======
----
-

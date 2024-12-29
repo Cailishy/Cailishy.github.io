@@ -8,7 +8,7 @@ main:
   - title: "News"
     url: /News/  
     
-  - title: "Publications"
+  - title: "📖Publications"
     url: /publications/ 
     
   - title: "Awards"
