@@ -24,7 +24,7 @@ author:
   avatar           : "avatar.png"
   name             : "Yunlong Xing"
   affiliation      : "NLPSC Lab, Shenzhen Technology University"
-  pronouns         : # example: "she/her"  
+  pronouns         : "寂しい人が悲しい歌を聴いている" # example: "she/her"  
   bio              : "Graph Neural Network, Traffic Prediction, Large Language Model"
   location         : "Shenzhen, China"
   employer         : "Shenzhen University"
