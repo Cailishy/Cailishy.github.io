@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yunlong Xing's Homepage(NLPSC Lab)"
+title                    : "Yunlong Xing's Homepage(SSC Lab)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "avatar.png"
   name             : "Yunlong Xing"
-  affiliation      : "NLPSC Lab, Shenzhen Technology University"
+  affiliation      : "Social Spatial Computing, SSC Lab"
   pronouns         : "寂しい人が悲しい歌を聴いている" # example: "she/her"  
   bio              : "Graph Neural Network, Traffic Prediction, Large Language Model"
   location         : "Shenzhen, China"
