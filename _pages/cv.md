@@ -19,7 +19,7 @@ Work Experience
 * **Tencent Technology (Shenzhen) Co., Ltd.**, Shenzhen
   * Position: AI Agent Full-Stack Development Engineer (Intern)
   * Department: Weixin (WeChat) Group
-  * Duration: 2025.12 - Present
+  * Duration: 2025.12 - 2026.3
 
 Skills
 ======

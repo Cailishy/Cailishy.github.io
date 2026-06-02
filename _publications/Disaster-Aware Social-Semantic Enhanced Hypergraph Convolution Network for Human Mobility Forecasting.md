@@ -1,6 +1,6 @@
 ---
 title: "DASH: Disaster-Aware Social-Semantic Enhanced Hypergraph Convolution Network for Human Mobility Forecasting"
-category: transaction
+category: transactions
 permalink: /publication/DASH: Disaster-Aware Social-Semantic Enhanced Hypergraph Convolution Network for Human Mobility Forecasting
 excerpt: ''
 date: 2026-6-6
