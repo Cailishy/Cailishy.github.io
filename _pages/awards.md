@@ -12,6 +12,7 @@ redirect_from:
 
 <ul>
     <li><em>2024-9</em> : Awarded the First-Class Graduate Academic Scholarship from Shenzhen University</li>
+    <li><em>2025-9</em> : Awarded the First-Class Graduate Academic Scholarship from Shenzhen University</li>
 </ul>
 
 
